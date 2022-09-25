@@ -1,0 +1,33 @@
+body{
+  background-image: url(https://getwallpapers.com/wallpaper/full/8/2/5/277275.jpg);
+}
+.head{
+  text-align: right;
+  font-size: 70px;
+  color: red;
+}
+.main{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.midimg{
+  width: 600px;height: 500px;
+}
+.midimg1{
+  width: 600px;height: 500px;
+}
+.anchor{
+  text-align: center;
+  font-family: Century gothic;
+  font-size: 20px;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: green;
+}
